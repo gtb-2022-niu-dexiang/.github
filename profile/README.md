@@ -1,6 +1,6 @@
 ## hello thoughtworks！
 
-![01](image/01.png)
+![01](./image/01.png)
 
 name：牛德祥
 
